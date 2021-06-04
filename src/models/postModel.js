@@ -38,3 +38,8 @@ exports.getPostById = (postId) => {
     return postsArray.filter(post => post.id === Number(postId))
 }
 
+// TODO: Crear nuevo post
+
+// TODO: Editar post
+
+// TODO: Eliminar post

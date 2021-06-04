@@ -28,3 +28,9 @@ exports.getPostById = (req, res) => {
 		message: 'No post found',
 	})
 };
+
+// TODO: Crear nuevo post
+
+// TODO: Editar post
+
+// TODO: Eliminar post
